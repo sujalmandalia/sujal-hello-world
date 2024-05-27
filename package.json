@@ -1,0 +1,22 @@
+{
+  "name": "sujal-hello-world",
+  "version": "1.0.0",
+  "description": "An npm package to log hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujalmandalia/sujal-hello-world.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Sujal Mandalia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujalmandalia/sujal-hello-world/issues"
+  },
+  "homepage": "https://github.com/sujalmandalia/sujal-hello-world#readme"
+}
